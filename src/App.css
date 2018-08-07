@@ -1,0 +1,50 @@
+.App {
+  letter-spacing: 1px;
+  color: #444;
+}
+
+.App-title {
+  padding: 50px 0;
+  font-size: 1.5em;
+  text-align: center;
+}
+nav {
+  margin: 0 auto 10px;
+  width: 100%;
+  text-align: center;
+}
+nav button {
+  text-align: center;
+}
+form{
+  max-width: 500px;
+  margin: 0 auto;
+}
+
+
+
+ul,
+li {
+  padding: 0;
+  margin: 0;
+  list-style: none;
+}
+.post-container {
+  max-width: 500px;
+  margin: 0 auto;
+}
+.post-tile {
+  margin: 20px 0;
+  padding: 20px;
+  border: solid 1px #777;
+  border-radius: 10px;
+}
+.post-tile-name {
+  font-size: 1.5em;
+}
+.post-tile-description {
+
+}
+.post-tile-salary {
+
+}
